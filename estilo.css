@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 45px;
+    /* text-shadow: 2px 0px 4px #ff016b; */
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+body{
+    /* background-color: #fcafff; */
+    background-image: url(https://img.freepik.com/free-photo/blurred-pop-abstract-background-pink_58702-1661.jpg);
+background-repeat: repeat-y;
+background-size: cover;
+/* background-position: left; */
+background-attachment: fixed;
+}
+
+main{
+
+width: 60%;
+margin:auto;
+background-color: #ee4d98;
+padding-top: 50px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 100px;
+ border: rgb(194, 43, 194) 4px dashed;  /*solid dotted dashed */
+border-radius: 20px;
+}
+
+p{
+    color: #fcc9f3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:25px ;
+    font-weight:lighter ;
+    /* font-style:oblique ; */
+    /* font-stretch:ultra-expanded; */
+    line-height:35px;
+    /* letter-spacing: 2px;
+    word-spacing: 2px; */
+    text-align: justify;
+    text-decoration:underline #aa14a3 dashed 3px;
+    /* text-transform:capitalize; */
+     text-indent: 35px; /*recuo */
+     text-shadow: 2px 3px 4px #ff00aa;
+}
+img{
+    margin-left: 250px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+footer p{
+    font-style: italic;
+    text-decoration: none;
+    margin-top: 25px;
+    text-align: center;
+}
